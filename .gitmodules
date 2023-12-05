@@ -58,3 +58,6 @@
 [submodule "MinimedKit"]
 	path = MinimedKit
 	url = https://github.com/LoopKit/MinimedKit.git
+[submodule "DanaKit"]
+	path = DanaKit
+	url = https://github.com/bastiaanv/DanaKit.git
