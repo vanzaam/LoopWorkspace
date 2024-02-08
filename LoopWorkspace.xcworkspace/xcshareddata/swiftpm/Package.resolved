@@ -46,15 +46,6 @@
       }
     },
     {
-      "identity" : "mkringprogressview",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/maxkonovalov/MKRingProgressView.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "660888aab1d2ab0ed7eb9eb53caec12af4955fa7"
-      }
-    },
-    {
       "identity" : "nightscoutkit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/LoopKit/NightscoutKit",
@@ -96,15 +87,6 @@
       "state" : {
         "branch" : "dev",
         "revision" : "54045c2e7d720dcd8a0909037772dcd6f54f0158"
-      }
-    },
-    {
-      "identity" : "zipfoundation",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/LoopKit/ZIPFoundation.git",
-      "state" : {
-        "branch" : "stream-entry",
-        "revision" : "c67b7509ec82ee2b4b0ab3f97742b94ed9692494"
       }
     }
   ],
