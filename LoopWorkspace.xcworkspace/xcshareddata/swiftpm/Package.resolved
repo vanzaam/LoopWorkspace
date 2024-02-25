@@ -32,8 +32,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/CryptoSwift",
       "state" : {
-        "revision" : "12f2389aca4a07e0dd54c86ec23d0721ed88b8db",
-        "version" : "1.4.3"
+        "revision" : "eee9ad754926c40a0f7e73f152357d37b119b7fa",
+        "version" : "1.7.1"
+      }
+    },
+    {
+      "identity" : "mkringprogressview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxkonovalov/MKRingProgressView.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "660888aab1d2ab0ed7eb9eb53caec12af4955fa7"
       }
     },
     {
@@ -69,6 +78,24 @@
       "state" : {
         "branch" : "master",
         "revision" : "3d011f67eccb1ffa622fbfccb1348eed80309ae8"
+      }
+    },
+    {
+      "identity" : "tidepoolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tidepool-org/TidepoolKit",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "54045c2e7d720dcd8a0909037772dcd6f54f0158"
+      }
+    },
+    {
+      "identity" : "zipfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LoopKit/ZIPFoundation.git",
+      "state" : {
+        "branch" : "stream-entry",
+        "revision" : "c67b7509ec82ee2b4b0ab3f97742b94ed9692494"
       }
     }
   ],
