@@ -168,7 +168,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C187C196279086A8006E3557"
+               BlueprintIdentifier = "C187C166279086A8006E3557"
                BuildableName = "DanaKitPlugin.loopplugin"
                BlueprintName = "DanaKitPlugin"
                ReferencedContainer = "container:DanaKit/DanaKit.xcodeproj">
@@ -434,7 +434,7 @@
             buildForAnalyzing = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "84752E8A26ED0FFE009FD801"
+               BlueprintIdentifier = "84752E9F26ED0FFE009FD801"
                BuildableName = "DanaKitTests.xctest"
                BlueprintName = "DanaKitTests"
                ReferencedContainer = "container:DanaKit/DanaKit.xcodeproj">
