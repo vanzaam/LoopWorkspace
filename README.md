@@ -1,9 +1,13 @@
 # LoopWorkspace
 
+> NOTE: This is my personal setup for Loop (libre 2 and Dana).
+> If you start using loop and want to use the Dana integration, I would recommend to go to Loop&Learn and use the customization
+> Link: https://www.loopandlearn.org/custom-code/#add-pump-dana
+
 The Loop app can be built using GitHub workflows in the cloud from a browser on any computer or using a Mac with Xcode.
 
-* Non-developers may prefer the GitHub workflow method, which does not require a mac.
-* Developers or Loopers who want full build control may prefer the local Mac/Xcode method.
+- Non-developers may prefer the GitHub workflow method, which does not require a mac.
+- Developers or Loopers who want full build control may prefer the local Mac/Xcode method.
 
 ## GitHub Build Instructions
 
